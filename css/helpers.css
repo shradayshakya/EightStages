@@ -1,0 +1,56 @@
+.clearfix:after{
+	content: '';
+	clear: both;
+	display: table;
+}
+
+.disabled{
+    color: #aaaaaa;
+}
+
+.background-cyan{
+	background: #2fc1d9;
+}
+
+.background-grey{
+	background: #f5f5f5;
+}
+
+.background-plantation{
+	background: #274f56;
+}
+
+.background-cyan{
+	background: rgb(125, 216, 232);
+}
+
+.text-underline{
+	text-decoration: underline;
+}
+
+.font-plantation{
+	color:#309eb0;
+}
+
+.font-cyan{
+	color: #2fc1d9;
+}
+
+.font-white{
+	color: white;
+}
+
+.font-green{
+	color: #709620;
+}
+
+.font-red{
+	color: #d53f1c;
+}
+
+.font-bold{
+	font-weight: bold;
+}
+
+
+
